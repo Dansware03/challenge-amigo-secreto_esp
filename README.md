@@ -1,3 +1,6 @@
+
+![Primer Desafio ONE](https://raw.githubusercontent.com/Dansware03/challenge-amigo-secreto_esp/main/assets/primer_desafio_one.webp)
+
 # Amigo secreto
 
 - En este desafío, desarrollarás una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el **"amigo secreto"**.
@@ -17,3 +20,4 @@
 ## Authors
 
 - [@dansware03](https://github.com/Dansware03)
+
