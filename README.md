@@ -1,5 +1,8 @@
+# Challenge Amigo secreto
 
-![Primer Desafio ONE](https://raw.githubusercontent.com/Dansware03/challenge-amigo-secreto_esp/main/assets/primer_desafio_one.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dansware03/challenge-amigo-secreto_esp/main/assets/primer_desafio_one.webp" width="150" height="150" alt="Primer Desafio ONE">
+</p>
 
 # Amigo secreto
 
